@@ -14,3 +14,7 @@ plt.plot (a, b)
 # plt.plot (a,a)
 plt.plot (a,c)
 
+mvalues = [0,1,5,6,80]
+print(mvalues)
+M = np.array(mvalues)
+print ('M=', M)
